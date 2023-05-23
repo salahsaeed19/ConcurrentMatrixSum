@@ -1,6 +1,8 @@
 # Concurrent Matrix Sum
 example code that demonstrates applying matrix summation using concurrency and threads in Java
 
+### It was programmed by: Salah Abu Seif, Abdulrazzaq Aldhahdouh, and Fathi Shamleh.
+
 ![‏‏لقطة الشاشة (329)](https://github.com/salahsaeed19/ConcurrentMatrixSum/assets/80893300/a62e6064-477c-4b72-b524-8053b4c45478)
 The provided code performs matrix summation using concurrency and threads in Java. Here's a simplified explanation of how the code works:
 
